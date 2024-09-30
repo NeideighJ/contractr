@@ -17,6 +17,13 @@ img {
     color:#9830C1;
     font-size: 128pt;
 }
+.motto{
+    margin-left: 20px;
+    margin-right: 20px;
+    color: black;
+    font-size: 225%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 .button1 {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: black;
